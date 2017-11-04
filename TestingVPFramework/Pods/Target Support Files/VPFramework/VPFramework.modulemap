@@ -1,0 +1,6 @@
+framework module VPFramework {
+  umbrella header "VPFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

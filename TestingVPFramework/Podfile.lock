@@ -1,0 +1,16 @@
+PODS:
+  - VPFramework (1.0.0)
+
+DEPENDENCIES:
+  - VPFramework (from `../VPFramework/`)
+
+EXTERNAL SOURCES:
+  VPFramework:
+    :path: ../VPFramework/
+
+SPEC CHECKSUMS:
+  VPFramework: d3e2d4e84a16f765ac8ad541a522a7302d8d9bd8
+
+PODFILE CHECKSUM: 029d12250130cf5547eddf921a2b53b7445fb14d
+
+COCOAPODS: 1.2.1
