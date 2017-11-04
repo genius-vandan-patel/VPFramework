@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		C67EABE51FAE13D20084157F /* VPFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = C67EABE31FAE13D20084157F /* VPFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C67EABEC1FAE13F60084157F /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = C67EABEB1FAE13F50084157F /* Service.swift */; };
+		C67EAC2A1FAE40F80084157F /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C67EAC291FAE40F80084157F /* UIViewControllerExtension.swift */; };
+		C67EAC2C1FAE416A0084157F /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C67EAC2B1FAE416A0084157F /* Animation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +18,8 @@
 		C67EABE31FAE13D20084157F /* VPFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VPFramework.h; sourceTree = "<group>"; };
 		C67EABE41FAE13D20084157F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C67EABEB1FAE13F50084157F /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		C67EAC291FAE40F80084157F /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
+		C67EAC2B1FAE416A0084157F /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +55,8 @@
 				C67EABE31FAE13D20084157F /* VPFramework.h */,
 				C67EABE41FAE13D20084157F /* Info.plist */,
 				C67EABEB1FAE13F50084157F /* Service.swift */,
+				C67EAC291FAE40F80084157F /* UIViewControllerExtension.swift */,
+				C67EAC2B1FAE416A0084157F /* Animation.swift */,
 			);
 			path = VPFramework;
 			sourceTree = "<group>";
@@ -135,6 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C67EAC2A1FAE40F80084157F /* UIViewControllerExtension.swift in Sources */,
+				C67EAC2C1FAE416A0084157F /* Animation.swift in Sources */,
 				C67EABEC1FAE13F60084157F /* Service.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
